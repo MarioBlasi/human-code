@@ -22,8 +22,4 @@ CONTEXT: siamo cinque amici seduti sul divano di fronte alla tv
 - entro nella categoria di quel genere
 
   - SCORRE i film FINTANTO CHE non ce n'è uno che piaccia almeno a 3 su 5
-
-  - chiedo AD OGNI amico se il genere del film/serie gli piace
-    - ? SE c'è un amico a cui NON piace
-      - propongo un altro film/serie
-    - : ALTRIMENTI schiaccio play.
+  - schiaccio play.
